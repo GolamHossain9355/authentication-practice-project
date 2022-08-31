@@ -1,7 +1,5 @@
-import React from 'react'
+import React from "react";
 
 export default function UpdateProfile() {
-  return (
-    <div>UpdateProfile</div>
-  )
+  return <div>UpdateProfile</div>;
 }
